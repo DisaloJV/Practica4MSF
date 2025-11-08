@@ -1,10 +1,10 @@
-[![Open in MATLAB Online]
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DisaloJV/Practica4MSF)
 
 # Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
 
 ## Información del estudiante
 
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+Diego S. Lopez [22211759]; L22211759@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -36,13 +36,13 @@ El sistema se resolvió con los siguientes parámetros de gamma y beta:
 2. beta = [1.650, 0.867, 1.617, 2.615, 1.518, 2.676, 0.891, 2.557, 0.925, 0.089];
 
 y con las siguientes condiciones iniciales:
-1. x1(0) = COLOCAR SUS CONDICIONES INICIALES;
-2. x2(0) = COLOCAR SUS CONDICIONES INICIALES;
-3. x3(0) = COLOCAR SUS CONDICIONES INICIALES;
+1. x1(0) = 58.8002713543475, 59.2896321384435, 58.7753660526290, 59.1525344676058, 59.0111181991100, 58.5193332189393, 58.9471177348288, 58.7548904459602, 59.3770579975327, 58.4300351981115;
+2. x2(0) = 43.8510498235812, 44.2159968490087, 43.8324763782318, 44.1137545182145, 44.0082915383194, 43.6415366378530, 43.9605623785164, 43.8172064342754, 44.2811957947701, 43.5749415036764;
+3. x3(0) = 852.105627253680, 859.197211497783, 851.744711440640, 857.210457115305, 855.161119665069, 848.034405121916, 854.233655309807, 851.447988666033, 860.464145557465, 846.740340582802;
 
 
 
-Palabras clave: ?; ?; ?; ?; ?.
+Palabras clave: Modelo matemático; Simulación numérica; Eritropoyesis; EDOs; Retroalimentación fisiológica.
 
 ## Lista de archivos incluidos en el repositorio
 
